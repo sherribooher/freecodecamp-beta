@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(99, 154, 166);
+}
+
+h1{
+  padding-bottom: 20px;
+}
+
+.centered {
+  text-align: center;
+  color: black;
+}
+
+form {
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.center-form {
+  padding: 10px 15px 40px 15px;
+  width: 70%;
+  height: auto;
+  margin: 0 auto;
+  background-color: rgb(249, 244, 229);
+  border-radius: 10px;
+}
+
+.rowTab {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+label {
+  display: inline-block;
+  text-align: left;
+  width: 40%;
+  vertical-align: top;
+}
+
+.rightTab {
+  display: inline-block;
+  width: 48%;
+  text-align: left;
+  vertical-align: middle;
+  margin-bottom: 20px;
+  margin-left: 60px;
+}
+
+textarea {
+  margin-left: -40px;
+}
+
+button {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
